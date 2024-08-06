@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://nesrine-hadboun-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://nesrinemh-portfolio.vercel.app/)
 
 - 📫 How to reach me **Nesrine.hadboun@live.fr**
 
