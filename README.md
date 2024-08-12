@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://nesrinemh-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://solo-project-portfolio-nextjs.vercel.app/)
 
 - 📫 How to reach me **Nesrine.hadboun@live.fr**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yIqNEAs7rxI3iPvfxZYAMQvfeZTvagLY/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1WzE5C3WCdLaSSpDZDXSLR7H2pZ09Lvxt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
